@@ -7,4 +7,5 @@ from the lines
 shield by shield
 
 new commit
---------------------------
+
+new branch feature
