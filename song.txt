@@ -12,4 +12,5 @@ new branch feature
 second branch
 
 conflict deneme main
+önemli..
 
