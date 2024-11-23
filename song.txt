@@ -11,5 +11,5 @@ new commit
 new branch feature
 second branch
 
-conflict deneme mmain
+conflict deneme mmmain
 
